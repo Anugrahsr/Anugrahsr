@@ -26,7 +26,7 @@
 <br />
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anugrahsr&show_icons=true&hide_border=true" />
+<img align="left" alt="cypher's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anugrahsr&show_icons=true&hide_border=true" />
 
 [website]: https://anugrahsr.netlify.app/
 [twitter]: https://twitter.com/cyph3r_asr
