@@ -1,6 +1,6 @@
 ### Hi there, I'm Anugrah SR - aka [Cyph3r][website] 👋
 
-## I love to learn computational biology , machine learning and cyber security !
+## I love to learn!
 - 🔭 I’m currently working on Bugcrowd as a bugbounty hunter!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for collaboration
