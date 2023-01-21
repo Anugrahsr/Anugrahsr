@@ -1,11 +1,11 @@
 ### Hi there, I'm Anugrah SR - aka [Cyph3r][website] 👋
 
 ## I love to learn!
-- 🔭 I’m currently working on Bugcrowd as a bugbounty hunter!
+- 🔭 I’m currently working as Cyber Security Consultant!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for collaboration
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to eat learn sleep
+- 🥅 2023 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to create curate and contribute
 
 ### Connect with me:
 
